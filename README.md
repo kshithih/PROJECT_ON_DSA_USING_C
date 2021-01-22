@@ -1,2 +1,2 @@
-# PROJECT_ON_DSA_USING_C
+# dsa_miniproject
 Cafe management System(reserving tables ) is developed using Circular Queue in C.
