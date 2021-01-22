@@ -1,5 +1,7 @@
 # dsa_miniproject
 Cafe management System(reserving tables ) is developed using Circular Queue in C.
+
+
 ABSTRACT
 •	In this digital world where everything happens by a click of mouse, reserving tables through software is important as it is beneficial for both administrator as well as customer.
 •	 The objective of this program is to implement a reserving table in restaurant using data structure concept. It is a menu driven program through which we can reserve tables in a restaurant and generate the detailed statistics of number of customers per day. 
